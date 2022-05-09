@@ -1,0 +1,6 @@
+% semilla = 1
+NUM_NODOS = 4 ;
+NUM_ARISTAS = 6 ;
+aristas =
+[| 2 , 4  | 1 , 4  | 2 , 4  | 2 , 4  | 1 , 2
+ | 1 , 4  |];
